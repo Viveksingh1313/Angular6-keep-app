@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+Features of the application :
+
+1. This is very basic application where you can store your small notes.
+2. You can also remove these notes by just a click on the particular note you want to delete.
+3. Also I have shown a basic implementation of Animation and Routing services.
+4. Instead of using display: flex, we are using display: grid in our HTML files.
+5. Using Angular6 as the framework, scss as the styling.
+6. The video tutorial here : https://www.youtube.com/watch?v=oa9cnWTpqP8 . Just wanted to have a basic knowledge on Angular6, so I           implemented all the functionalitites we had on the video. 
+7. No back-end is involved in the application.
